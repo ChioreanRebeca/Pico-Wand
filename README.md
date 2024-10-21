@@ -1,6 +1,6 @@
 
-# [Pico Wand(Hand Movement Detector)](https://embedded-rust-101.wyliodrin.com/docs/project/2024/rebeca.chiorean#description)
-
+# Pico Wand(Hand Movement Detector)
+## [The development process can be found here](https://embedded-rust-101.wyliodrin.com/docs/project/2024/rebeca.chiorean#description)
 ## Description
 
 Pico wand is useful device for physically impaired people. It uses a MPU6050 gyroscope that detects hand movements and interacts with the objects in the house. </br>
